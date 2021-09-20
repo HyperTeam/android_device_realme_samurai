@@ -1172,15 +1172,11 @@ vendor/lib64/libssc.so
 vendor/lib64/sensors.ssc.so
 
 # Sensors - from LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0
-vendor/bin/hw/vendor.qti.hardware.sensorscalibrate@1.0-service|f7bb65182afbc0406464f7dce417d2102075cbd6
 vendor/bin/sensors.qti|e1fe9fb0e8bf34988aee92d9e8f562e1e8f15d14
 vendor/bin/sscrpcd|6347ea56538718fe86d7411812c8fc4d86b4a0f6
 vendor/etc/init/init.vendor.sensors.rc|8d286f50fd261dc8843c6a208386b535cc07641e
-vendor/etc/init/vendor.qti.hardware.sensorscalibrate@1.0-service.rc|449c88778d880c0d47cc4d651fc60c4c424c1a3f
 vendor/etc/init/vendor.sensors.qti.rc|f34fc966af816b50f10ae7520b33863961a14478
 vendor/etc/init/vendor.sensors.sscrpcd.rc|df52901f1ad0fbc97d6070e28896a6be40154814
-vendor/etc/permissions/vendor-qti-hardware-sensorscalibrate.xml|f4884c1776c9f77c24bfce853fe22627ea4b7f79
-vendor/lib/hw/vendor.qti.hardware.sensorscalibrate@1.0-impl.so|787388ce4067c66c4882bd23fe4fb783536aa392
 vendor/lib/libsensorcal.so|cd7e3921e04c2709add30b64a4450d0ac2b1fba5
 vendor/lib/libsensorslog.so|16065c5b303a137d028a1cbc55d500330d13822f
 vendor/lib/libsns_device_mode_stub.so|f87448c5df71335685eac76101b9ba7ff1666053
@@ -1190,8 +1186,6 @@ vendor/lib/libsns_registry_skel.so|9acffec6e69d90f0e62ff6293825e85193568503
 vendor/lib/libsnsapi.so|33d81e7bf86da39a9953daa7e889a539b1a749a8
 vendor/lib/libsnsdiaglog.so|8a378c447060952a4a827f71e2a651674e68fb83
 vendor/lib/libssc_default_listener.so|e3a7b4fe1b4e31afb6fffcf8fd2babf60db1e894
-vendor/lib/vendor.qti.hardware.sensorscalibrate@1.0.so|a8256228002725c31f1cad33edcde76b7fbc4792
-vendor/lib64/hw/vendor.qti.hardware.sensorscalibrate@1.0-impl.so|8784d57df4d513ec5dc7ca07877e21c9c62f9329
 vendor/lib64/libsensorcal.so|6b35e96090bcd21e03e99b5ca97da83dca20436b
 vendor/lib64/libsensorslog.so|5dfd4c42e9dddbea55f56902a9ac4b1098249cb2
 vendor/lib64/libsns_device_mode_stub.so|3ca95e19b3fb12cb10cebc8f8bd091d321e457b1
@@ -1201,7 +1195,6 @@ vendor/lib64/libsns_registry_skel.so|eef255155f222ec78b7c3f49e90f7fc5e8df5b10
 vendor/lib64/libsnsapi.so|cd8f5183afbd92c3a597feb53e80e28ece079a82
 vendor/lib64/libsnsdiaglog.so|0e196eeed96e7c85d09c96bbdb08920d5568e5b5
 vendor/lib64/libssc_default_listener.so|d1ca27c768a8746fc92ff5d0ed61699015853d7c
-vendor/lib64/vendor.qti.hardware.sensorscalibrate@1.0.so|da88565e94c77fc8ee76612c0d5223f3cfa9e76f
 
 # Sensors configs
 odm/etc/sensor/sensor_config.json
