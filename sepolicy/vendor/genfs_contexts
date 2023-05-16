@@ -30,6 +30,3 @@ genfscon sysfs /devices/platform/soc/c440000.qcom,spmi/spmi-0/spmi0-02/c440000.q
 genfscon sysfs /devices/platform/soc/a84000.i2c/i2c-4/4-0028/wakeup                                                                                                                  u:object_r:sysfs_wakeup:s0
 genfscon sysfs /devices/platform/soc/171c0000.slim/tavil-slim-pgd/wakeup                                                                                                             u:object_r:sysfs_wakeup:s0
 genfscon sysfs /devices/virtual/diag/diag/wakeup6                                                                                                                                    u:object_r:sysfs_wakeup:s0
-
-# USB
-genfscon sysfs /devices/platform/soc/a600000.ssusb/usb_data_enabled        u:object_r:sysfs_usb_data_enabled:s0
