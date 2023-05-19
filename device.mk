@@ -355,11 +355,6 @@ TARGET_COMMON_QTI_COMPONENTS += \
     bt \
     perf
 
-# Power
-PRODUCT_PACKAGES += \
-    android.hardware.power-service-qti \
-    android.hardware.power@1.2.vendor
-
 # Preopt SystemUI
 PRODUCT_DEXPREOPT_SPEED_APPS += \
     SystemUI
