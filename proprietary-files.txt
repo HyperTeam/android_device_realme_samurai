@@ -67,27 +67,27 @@ vendor/lib64/libaudioparsers.so
 vendor/lib64/libqtigef.so
 vendor/lib64/libtinycompress.so
 
-# Audio extensions - from LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0
-vendor/lib/liba2dpoffload.so|7d29a065fd085273928f4782190bb4486a98aa93
-vendor/lib/libbatterylistener.so|ea0467a4fdef039eb76274da77246b515c779c44
-vendor/lib/libcomprcapture.so|f6b7910338e98ab68961d384af3e98e2640c3f81
-vendor/lib/libcomprcapture.so|f6b7910338e98ab68961d384af3e98e2640c3f81
-vendor/lib/libexthwplugin.so|84049ada8166d0d9416821a84a021fe51ad6b0af
-vendor/lib/libhdmiedid.so|f9517c46259670268b53909c86a28de6fdeea33f
-vendor/lib/libhdmipassthru.so|c69a61da26fd99d1da1efdaad786df6ccac287e8
-vendor/lib/libhfp.so|f37759afa1e8d24eb4918ddb639fac1224b64e9b
-vendor/lib/libsndmonitor.so|2ff62e369a46f76c1eaf01cd0a75c13504e8c0b4
-vendor/lib/libspkrprot.so|31256a2db50a79a0e1cce1c6647072e3b69f2e89
-vendor/lib64/liba2dpoffload.so|7d89e210da95ff9f1dbd86d3a9d04b259f6ba424
-vendor/lib64/libbatterylistener.so|662ac13e020e2c54df2161fd5ae4c01fa078ee76
-vendor/lib64/libcirrusspkrprot.so|4b0729b339f458173d2c837f0fc311d365ff4ec6
-vendor/lib64/libcomprcapture.so|705240e5051761e65252eefac44d37e908b5500b
-vendor/lib64/libexthwplugin.so|0ef0012fbebbdb355c6b15440c8a3f083ae1528e
-vendor/lib64/libhdmiedid.so|bd25f0c624994aed4dd2d0dd79c72ec204c4de56
-vendor/lib64/libhdmipassthru.so|d6326a6a6018d48310ad44cf2e26792351163665
-vendor/lib64/libhfp.so|85b90bcb9d827b3f6a54b94b7a02bdc9dcca61b4
-vendor/lib64/libsndmonitor.so|12ae24aae1141ddacfe805f019696f9dc3a23a17
-vendor/lib64/libspkrprot.so|f28ad7ce64e2759e4320c4c8bcf43b61c2730c7c
+# Audio extensions
+vendor/lib/liba2dpoffload.so
+vendor/lib/libbatterylistener.so
+vendor/lib/libcomprcapture.so
+vendor/lib/libcomprcapture.so
+vendor/lib/libexthwplugin.so
+vendor/lib/libhdmiedid.so
+vendor/lib/libhdmipassthru.so
+vendor/lib/libhfp.so
+vendor/lib/libsndmonitor.so
+vendor/lib/libspkrprot.so
+vendor/lib64/liba2dpoffload.so
+vendor/lib64/libbatterylistener.so
+vendor/lib64/libcirrusspkrprot.so
+vendor/lib64/libcomprcapture.so
+vendor/lib64/libexthwplugin.so
+vendor/lib64/libhdmiedid.so
+vendor/lib64/libhdmipassthru.so
+vendor/lib64/libhfp.so
+vendor/lib64/libsndmonitor.so
+vendor/lib64/libspkrprot.so
 
 # Audio HAL
 odm/lib/libaudioEngineerTest.so
