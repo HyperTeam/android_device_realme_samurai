@@ -1013,15 +1013,6 @@ vendor/bin/pm-service|c3d1b2f6e7f731b1328afbcf8e344405744528e3
 vendor/lib64/libperipheral_client.so|9bfd41e276e16b8f7c6808f3d87531fc5be4cdd5
 vendor/lib64/libspcom.so|7cc4390e7caf520586c22cdb7219842fa5d6ed2c
 
-# PASR Manager - from LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0
--vendor/app/pasrservice/pasrservice.apk|6d4e8bab2426b03231531ec09bce922601b8e8e6
-vendor/bin/hw/vendor.qti.power.pasrmanager@1.0-service|27dd1f54cfdc65f365c6b63e9b13bdb6ade5aa70
-vendor/etc/init/vendor.qti.power.pasrmanager@1.0-service.rc|b34c1b9179c89cd47adce145bae9a609e5141bc0
-vendor/lib64/hw/vendor.qti.power.pasrmanager@1.0-impl.so|4e83bd83fa439f15dc3c0a2256eadd81d6c45386
-vendor/lib64/vendor.qti.memory.pasrmanager@1.0.so|f4a4ca6c518639551fb60e2a0287692d455bddd8
-vendor/lib64/vendor.qti.memory.pasrmanager@1.1.so|b5c361abda63650522efe75eb264df6237b614dc
-vendor/lib64/vendor.qti.power.pasrmanager@1.0.so|ac738d8aba807b3b150618ae89a9994453fd7b1f
-
 # Perf - from LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0
 vendor/bin/hw/vendor.qti.hardware.perf@2.2-service|4627a51573e47a54ebf96ea3623d647588a84277
 vendor/etc/init/vendor.qti.hardware.perf@2.2-service.rc|459b4c23550a56ac545f78c6d391f3d7dd9ba45b
