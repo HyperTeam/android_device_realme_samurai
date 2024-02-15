@@ -822,18 +822,6 @@ vendor/lib64/vendor.qti.ims.rcsconfig@2.1.so
 vendor/lib64/vendor.qti.imsrtpservice@3.0-service-Impl.so
 vendor/lib64/vendor.qti.imsrtpservice@3.0.so
 
-# IO prefetcher - from LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0
-vendor/bin/hw/vendor.qti.hardware.iop@2.0-service|b0e064fc7a77ee809065fb6a9532229063f9484c
-vendor/etc/init/vendor.qti.hardware.iop@2.0-service.rc|fd11367b2585702190ef2577ce2ce6fc68f3a2f8
-vendor/lib/libqti-iopd-client.so|795f30939075aff7a57973d682bdd6c22f26a53d
-vendor/lib/libqti-iopd.so|2ab726da20cd1da437e50977c96fe6b449cda69a
-vendor/lib/vendor.qti.hardware.iop@1.0.so|f0c3868953a099acbaceba7dbe718af8d8d9d825
-vendor/lib/vendor.qti.hardware.iop@2.0.so|73e64781259d2710520478314f6bd5cf1236d06f
-vendor/lib64/libqti-iopd-client.so|9f644b46e1c9cae11b6131cee099d47ff8d4e730
-vendor/lib64/libqti-iopd.so|c76e41a21717245d6a33658c0d3364fd0dc8136a
-vendor/lib64/vendor.qti.hardware.iop@1.0.so|23d85063dc470a2eee35a21e41a431a78f37c0b4
-vendor/lib64/vendor.qti.hardware.iop@2.0.so|2f56757d0cbb082bcf7a4432243374ce53b2e6ec
-
 # IPA
 vendor/etc/init/ipa_fws.rc
 vendor/etc/init/ipacm-diag.rc
