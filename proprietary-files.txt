@@ -1013,39 +1013,6 @@ vendor/bin/pm-service|c3d1b2f6e7f731b1328afbcf8e344405744528e3
 vendor/lib64/libperipheral_client.so|9bfd41e276e16b8f7c6808f3d87531fc5be4cdd5
 vendor/lib64/libspcom.so|7cc4390e7caf520586c22cdb7219842fa5d6ed2c
 
-# Perf - from LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0
-vendor/bin/hw/vendor.qti.hardware.perf@2.2-service|4627a51573e47a54ebf96ea3623d647588a84277
-vendor/etc/init/vendor.qti.hardware.perf@2.2-service.rc|459b4c23550a56ac545f78c6d391f3d7dd9ba45b
-vendor/etc/lm/AdaptLaunchFeature.xml|bc226e5b64cae1d0bb637eb316626868b97e7c3f
-vendor/etc/lm/AppClassifierFeature.xml|80bcbf8fc50ed706e8549432140323dbb9e8ae4c
-vendor/etc/lm/GameOptimizationFeature.xml|5314e8dfdf363d0fbe4599ba64e3e765878569b9
-vendor/etc/perf/commonresourceconfigs.xml|c03bd36054bb5d327ad12dc711b58b3f658d261c
-vendor/etc/perf/perfboostsconfig.xml|93e57b38e327bfbc174e925d639745e66949229b
-vendor/etc/perf/perfconfigstore.xml|62f780c6f974a62d18a66d0dcee30efb04903512
-vendor/etc/perf/targetconfig.xml|95f511bb4030b2755a0b340814fe41cccac994ab
-vendor/etc/perf/targetresourceconfigs.xml|44e33511b57320fade366bfd5be83dcf5930f540
-vendor/etc/powerhint.xml|f35137c8f5068d03bba832b995e3e89b1ad718c2
-vendor/lib/libperfconfig.so|510466519cd2e3aaf5a6cc6aefef9f68eeac9e6c
-vendor/lib/libperfgluelayer.so|dd61ea16be569c6a13adb1f6abb7fe54374a0374
-vendor/lib/libperfioctl.so|fcc14060de57a16c15f621679624e9845dda0fdb
-vendor/lib/libqti-perfd-client.so|9ed27413af304b261fc64f4326375d7427866d7d
-vendor/lib/libqti-perfd.so|299ed6f868c011083c1f68d287c0609ece027216
-vendor/lib/libqti-util.so|560bc0793438df2b74b127a31929ed95b2b90a40
-vendor/lib/libqti-utils.so|b2b9b4af5a3f85bc60de1285742f06625913ac74
-vendor/lib64/libadaptlaunch.so|131dabf23d3eaeefc29402add059dfd8e1b4f7d5
-vendor/lib64/libappclassifier.so|684c838a9968ea09685e5edbe990ee5bee91a9a8
-vendor/lib64/libgameoptfeature.so|89002d9d4186f25d176e9c903601e1984ea0ab7e
-vendor/lib64/liblearningmodule.so|064545ff65df121399113d3561ec82a0b135766c
-vendor/lib64/libmeters-ns.so|a16643f4a4714cb2b3f26156986443584e669425
-vendor/lib64/libmeters.so|5b929c11eb2976fcab2934848a0d0b49b0fafb36
-vendor/lib64/libperfconfig.so|06fc5f5cfb6dae18bba45372ff424a97769a60dd
-vendor/lib64/libperfgluelayer.so|5fd74627e6da137083a450e542673d4027d43d57
-vendor/lib64/libperfioctl.so|498c3bea17bfa6f98fb6ba4c279bb151a139415d
-vendor/lib64/libqti-perfd-client.so|62c21bcb8cac644c702fb53e3274ccdb1298c42d
-vendor/lib64/libqti-perfd.so|cd9c5dc9c440101f803e4393e28aad0bffda7284
-vendor/lib64/libqti-util.so|48519e0baba84978b8593576579d33cd78cd0f8f
-vendor/lib64/libqti-utils.so|851798783cd77f7f847a67f1fff65ff727c9522b
-
 # Power-off alarm - from LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0
 vendor/bin/hw/vendor.qti.hardware.alarm@1.0-service|586b142f9bc4bf3098b4962682c4de1c13810f9b
 vendor/bin/power_off_alarm|b8c7ddc1bed336753c3746925fd0f4a9925aa36c
