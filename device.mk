@@ -102,7 +102,6 @@ PRODUCT_PACKAGES += \
     android.hardware.audio.effect@6.0-impl:32 \
     android.hardware.audio.service \
     android.hardware.bluetooth.a2dp@1.0.vendor \
-    android.hardware.bluetooth.audio@2.0:32 \
     android.hardware.bluetooth.audio-impl \
     audio.bluetooth.default \
     audio.r_submix.default \
@@ -162,12 +161,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libsuspend
 
-# ContextHub
-PRODUCT_PACKAGES += \
-    android.hardware.contexthub@1.0-impl \
-    android.hardware.contexthub@1.0-impl.generic \
-    android.hardware.contexthub@1.0-service \
-
 # Component overrides
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/component-overrides.xml:$(TARGET_COPY_OUT_VENDOR)/etc/sysconfig/component-overrides.xml
@@ -219,9 +212,6 @@ PRODUCT_PACKAGES += \
     IFAAService \
     ifaamanager
 
-#PRODUCT_BOOT_JARS += \
-    ifaamanager
-
 # Framework Detect
 PRODUCT_PACKAGES += \
     libqti_vndfwk_detect \
@@ -253,11 +243,7 @@ PRODUCT_PACKAGES += \
 
 # HIDL
 PRODUCT_PACKAGES += \
-    android.hidl.base@1.0.vendor \
-    android.hidl.manager@1.0.vendor \
-    libhidltransport \
     libhidltransport.vendor \
-    libhwbinder \
     libhwbinder.vendor
 
 # IMS
@@ -285,9 +271,7 @@ PRODUCT_PACKAGES += \
 # IPA Manager
 PRODUCT_PACKAGES += \
     ipacm \
-    IPACM_cfg.xml \
-    libipanat \
-    liboffloadhal
+    IPACM_cfg.xml
 
 # Keymaster
 PRODUCT_PACKAGES += \
