@@ -350,7 +350,6 @@ vendor/lib64/libtriplecam_optical_zoom_control.so
 vendor/lib64/libtriplecam_optical_zoom_vs.so
 vendor/lib64/libtriplecam_video_optical_zoom.so
 vendor/lib64/qcom.camera.log.so
-vendor/lib64/vendor.qti.hardware.camera.postproc@1.0.so
 
 # Camera / DSP - Arcsoft libraries
 odm/lib/rfsa/adsp/libarcsoft_dualcam_refocus_skel.so
