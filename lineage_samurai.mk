@@ -13,7 +13,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 PRODUCT_BRAND := realme
 PRODUCT_DEVICE := samurai
 PRODUCT_MANUFACTURER := realme
-PRODUCT_MODEL := realme X2 Pro
+PRODUCT_MODEL := RMX1931
 PRODUCT_NAME := lineage_samurai
 
 PRODUCT_SYSTEM_NAME := RMX1931
